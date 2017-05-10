@@ -2,6 +2,11 @@
 
 ##### Grupo GastarGroup
 
+##### Alumnos: 
+
+- Gasparini, Roman
+- Tarres, Martin
+
 --------------------------------------------
     
 
